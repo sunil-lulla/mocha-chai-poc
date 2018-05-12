@@ -1,0 +1,24 @@
+{
+  "name": "mocha-chai-poc",
+  "version": "1.0.0",
+  "description": "A small poc to see how Mocha &amp; Chai can be used",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunil-lulla/mocha-chai-poc.git"
+  },
+  "author": "Sunil Lulla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunil-lulla/mocha-chai-poc/issues"
+  },
+  "homepage": "https://github.com/sunil-lulla/mocha-chai-poc#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.16.3",
+    "mocha": "^5.1.1"
+  }
+}
